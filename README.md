@@ -207,6 +207,6 @@ The url to your repository and to your deployed project
 
 ### Contributors
 
-Marisha Deroubaix - <deroubaix> - <linkedin.com/in/marisha-deroubaix>
+Marisha Deroubaix - <deroubaix> - [linkedin.com/in/marisha-deroubaix]
 
 Eveline Coenegrachts - <evelinecoen> - <linkedin.com/in/eveline-coenegrachts>
